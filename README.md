@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**SomyaGarg611/SomyaGarg611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Somya Garg, a passionate Software Engineer from India.
 
-Here are some ideas to get you started:
+**About Me:**
+- 👨‍💻 I'm currently working as a Software Engineer at <a href='https://hashedin.com/'>HashedIn By Deloitte</a>.
+- 🎓 I graduated with a Bachelor's degree in Computer Science and Engineering from Dr. A. P. J. Abdul Kalam Technical University, Lucknow.
+- 💡 I enjoy working on full-stack web development, with expertise in technologies like Spring Boot, Node.js, React.js and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**
+- Languages & Frameworks: Python, Java, JavaScript, Node.js, React.js, Spring Boot, FastAPI
+- AI & Data: OpenAI APIs, Langchain, Groq API, MySQL, PostgreSQL. Oracle DB, SQLAlcehmy, Alembic
+- Tools & Platforms: VS Code, Intellij IDEA, Bitbucket, Docker, CI/CD, JIRA
+- Concepts: RESTful APIs, Prompt Engineering, RAG Pipelines, JWT Auth, Agile/Scrum
+
+**Connect with Me:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:somyagarg270@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somyagarg611/)  
+
+Feel free to explore my repositories and provide feedback!
